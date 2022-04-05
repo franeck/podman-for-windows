@@ -54,6 +54,16 @@ Check the installation
 podman run --rm -it hello-world
 ```
 
+## Disclaimer 
+
+This technique worked for me, on my particular setup and on this prticular period of time (April 2022).    
+I can't guarantee it still works when you reading this. Feel free to contribute.
+
+## Contributing 
+
+If you're into contributing to open source projects you most likely know the drill.    
+You can start by creating an issue and propose pull request.
+
 ## Sources
 
 + [Podman](https://github.com/containers/podman)
